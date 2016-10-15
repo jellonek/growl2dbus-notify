@@ -18,7 +18,10 @@ ommitting the `"notification title"` part.
 If you need translator of growl notifications to your system native
 notifications, you need additionally libraries required for your system.
 
-They can be installed with `pip install -r linux-requirements.txt` for linux systems.
+They can be installed with `pip install -r REQUIREMENTS_FILE` where REQUIREMENTS_FILE is
+
+* `linux-requirements.txt` - for linux systems
+* `mac-requirements.txt` - for MacOs systems
 
 # Translator usage
 
